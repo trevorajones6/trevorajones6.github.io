@@ -44,6 +44,10 @@ CONTENTS:
 /* =========================================================
 01. General
 ============================================================ */
+img { 
+	max-width: 100%; 
+	height: auto
+}
 
 div, article, section, header, footer, nav, li {
 	position:relative;
