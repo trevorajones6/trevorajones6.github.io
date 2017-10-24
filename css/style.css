@@ -376,6 +376,9 @@ header .logo {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	width: auto ;
+ 	max-width: 100% ;
+ 	height: auto ;
 }
 
 #main-flexslider ul.slides li p {
